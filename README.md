@@ -1,4 +1,3 @@
-Here’s a **GitHub README** file for your "Your Local Time" project:
 
 ---
 
